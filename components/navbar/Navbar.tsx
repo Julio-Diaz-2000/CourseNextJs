@@ -11,7 +11,7 @@ export const Navbar = () => {
   return (
     <nav className='flex bg-blue-800 bg-opacity-30 p-2 m-2 rounded'>
         <Link href={'/'}>
-            <span>Home 1</span>
+            <span>Home</span>
         </Link>
 
         <div className='flex-1'></div>
